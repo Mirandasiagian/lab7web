@@ -1,5 +1,5 @@
 # PHP Framework (Codeigniter4)
-| Praktikum 1-5  |  Pemrograman Web 2  
+| Praktikum 3 framework lanjutan (CRUD) |  Pemrograman Web 2  
 |-------|---------
 | NIM   | 312310008
 | Nama  | MIRANDA OKTAVIA SIAGIAN
