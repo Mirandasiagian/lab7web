@@ -98,4 +98,3 @@ Hasilnya akan seperti ini:
 
 ![image](./image/admin.png)
 
-### Going on
